@@ -1,0 +1,14 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "project patterns practice",
+  "main": "./src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nycolas Borowski",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.5.0"
+  }
+}
